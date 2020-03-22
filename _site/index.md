@@ -1,15 +1,16 @@
 Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) or 
 
-## How you can help
+## Community Efforts
+| [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
 
 
 
 
-### PPE donation map
+### <a name="PPE"></a> PPE donation map
 
 {% include map.html %}
 
-### Volunteer
+### <a name="Volunteer"></a> Volunteer
 
 #### Grocery/Meal Delivery
 - [Meals on Wheels SF](https://www.mowsf.org/)
@@ -61,7 +62,7 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 - [Redwood Empire Food Bank](https://refb.org/)
 
 
-### Fund Support
+### <a name="Fund"></a> Fund Support
 
 - [Silicon Valley Community Foundation](https://siliconvalleycf.org/coronavirus-fund)
     - Hosted by Silicon Valley Community Foundation, the COVID-19 Regional Response Fund will work with trusted lead partner organizations in the 10-county Bay Area region. The fund will provide operating grants to the organizations listed on the website, which have deep roots in the community. These lead organizations, in turn, will support those affected by the COVID-19 pandemic.
@@ -72,13 +73,13 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 - [St. Anthony's Foundation](https://www.stanthonysf.org/)
     - In the spirit of the Gospel, inspired by the joy and compassion of Francis and Clare of Assisi, in solidarity with all who hunger and thirst for justice and peace, and together with those we serve, our mission is to feed, heal, shelter, clothe, lift the spirits of those in need, and create a society in which all persons flourish.
 
-### Unemployment Support
+### <a name="Unemployment"></a> Unemployment Support
 
 - [Unemployment Insurance](https://www.edd.ca.gov/unemployment/)
 
 - [The Office of Economic and Workforce Development (OEWD)](https://oewd.org/)
 
-### Small Business Support
+### <a name="Small"></a> Small Business Support
 
 - [SaveOurFaves](https://saveourfaves.org/)
     - Your favorite Bay Area restaurant might close forever. Help save it.
