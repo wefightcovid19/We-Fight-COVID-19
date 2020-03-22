@@ -4,8 +4,9 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 
 ## Community Efforts
 | [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
+|-------------|-------------------------|---------------|-------------------------------|--------------------------|
 
-### <a name="PPE"></a> PPE donation map
+### <a name="PPE"></a> PPE donation map (last updated 03/22/2020)
 
 **want to list your organization?** contact [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) with your work email (Org name, needs, address, contact)
 
