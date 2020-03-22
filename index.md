@@ -7,6 +7,10 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 
 ### <a name="PPE"></a> PPE donation map
 
+**want to list your organization?** contact [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) with your work email (Org name, needs, address, contact)
+
+**have something to donate but need pickup?** submit info [here](https://docs.google.com/forms/d/e/1FAIpQLSeuvr5kbLRhG3c3Ht9fY-3ZrvMCJjyqqBeWUuulOGv6bu4lRw/viewform) 
+
 {% include map.html %}
 
 ### <a name="Volunteer"></a> Volunteer
