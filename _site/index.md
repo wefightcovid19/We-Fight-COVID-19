@@ -1,6 +1,6 @@
 Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) or [@WeFightCOVID](https://twitter.com/WeFightCOVID)
 
-[![Tweet](tweetit.png)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwefightcovid19.org&text=Together%2C%20we%20fight%20COVID-19!%20Here%20is%20how%20you%20can%20help%20in%20SF%20Bay%20Area%3A%20)
+[![Tweet](tweetit.png)](hhttps://twitter.com/intent/tweet?url=https%3A%2F%2Fwefightcovid19.org&text=Together%2C%20%40WeFightCovid%20!%20Here%20is%20how%20you%20can%20help%20in%20SF%20Bay%20Area%3A%20)
 
 ## Community Efforts
 | [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
