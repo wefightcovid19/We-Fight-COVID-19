@@ -2,3 +2,6 @@ title: We Fight COVID-19 🙌
 theme: jekyll-theme-cayman
 description:  🌁 San Francisco Bay Area
 url: "https://wefightcovid19.org"
+
+# Google Analytics
+google_analytics: UA-161425324-1
