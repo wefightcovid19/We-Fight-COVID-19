@@ -5,10 +5,6 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 ## Resources
 | [Case Statistics](#Case) | [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
 
-### <a name="Case"></a> Case Statistics in San Francisco Bay Area
-(last updated 03/22/2020)
-{% include chart.html %}
-
 ### <a name="PPE"></a> PPE donation map 
 (last updated 03/22/2020)
 
