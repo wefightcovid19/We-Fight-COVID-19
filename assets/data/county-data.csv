@@ -1,0 +1,261 @@
+,Country_Region,Province_State,Confirmed,Recovered,Active,Deaths,Date
+1,United States,Alameda,1,0,0,0,03-01-2020
+2,United States,Alameda,1,0,0,0,03-02-2020
+3,United States,Alameda,2,0,0,0,03-03-2020
+4,United States,Alameda,2,0,0,0,03-04-2020
+5,United States,Alameda,2,0,0,0,03-05-2020
+6,United States,Alameda,3,0,0,0,03-06-2020
+7,United States,Alameda,3,0,0,0,03-07-2020
+8,United States,Alameda,3,0,0,0,03-08-2020
+9,United States,Alameda,3,0,0,0,03-09-2020
+10,United States,Alameda,5,0,0,0,03-10-2020
+11,United States,Alameda,5,0,0,0,03-11-2020
+12,United States,Alameda,9,0,0,0,03-12-2020
+13,United States,Alameda,9,0,0,0,03-13-2020
+14,United States,Alameda,10,0,0,0,03-14-2020
+15,United States,Alameda,18,0,0,0,03-15-2020
+16,United States,Alameda,18,0,0,0,03-16-2020
+17,United States,Alameda,30,0,0,0,03-17-2020
+18,United States,Alameda,34,0,0,0,03-18-2020
+19,United States,Alameda,38,0,0,0,03-19-2020
+20,United States,Alameda,48,0,0,0,03-20-2020
+21,United States,Alameda,68,0,0,0,03-21-2020
+22,United States,Alameda,106,0,0,0,03-22-2020
+23,United States,Alameda,122,0,0,0,03-23-2020
+1,United States,Contra Costa,1,0,0,0,03-03-2020
+2,United States,Contra Costa,1,0,0,0,03-04-2020
+3,United States,Contra Costa,1,0,0,0,03-05-2020
+4,United States,Contra Costa,4,0,0,0,03-06-2020
+5,United States,Contra Costa,4,0,0,0,03-07-2020
+6,United States,Contra Costa,9,0,0,0,03-08-2020
+7,United States,Contra Costa,10,0,0,0,03-09-2020
+8,United States,Contra Costa,10,0,0,0,03-10-2020
+9,United States,Contra Costa,13,0,0,0,03-11-2020
+10,United States,Contra Costa,17,0,0,0,03-12-2020
+11,United States,Contra Costa,25,0,0,0,03-13-2020
+12,United States,Contra Costa,29,0,0,0,03-14-2020
+13,United States,Contra Costa,29,0,0,0,03-15-2020
+14,United States,Contra Costa,34,0,0,0,03-16-2020
+15,United States,Contra Costa,38,0,0,0,03-17-2020
+16,United States,Contra Costa,41,0,0,0,03-18-2020
+17,United States,Contra Costa,42,0,0,0,03-19-2020
+18,United States,Contra Costa,46,0,0,0,03-20-2020
+19,United States,Contra Costa,51,0,0,0,03-21-2020
+20,United States,Contra Costa,61,0,0,0,03-22-2020
+21,United States,Contra Costa,71,0,0,0,03-23-2020
+1,United States,Marin,1,0,0,0,03-09-2020
+2,United States,Marin,1,0,0,0,03-10-2020
+3,United States,Marin,3,0,0,0,03-11-2020
+4,United States,Marin,3,0,0,0,03-12-2020
+5,United States,Marin,3,0,0,0,03-13-2020
+6,United States,Marin,5,0,0,0,03-14-2020
+7,United States,Marin,9,0,0,0,03-15-2020
+8,United States,Marin,11,0,0,0,03-16-2020
+9,United States,Marin,11,0,0,0,03-17-2020
+10,United States,Marin,15,0,0,0,03-18-2020
+11,United States,Marin,25,0,0,0,03-19-2020
+12,United States,Marin,38,0,0,0,03-20-2020
+13,United States,Marin,38,0,0,0,03-21-2020
+14,United States,Marin,38,0,0,0,03-22-2020
+15,United States,Marin,47,0,0,0,03-23-2020
+1,United States,Napa,2,0,0,0,03-22-2020
+2,United States,Napa,2,0,0,0,03-23-2020
+1,United States,San Francisco,2,0,0,0,03-05-2020
+2,United States,San Francisco,2,0,0,0,03-06-2020
+3,United States,San Francisco,8,0,0,0,03-07-2020
+4,United States,San Francisco,8,0,0,0,03-08-2020
+5,United States,San Francisco,13,0,0,0,03-09-2020
+6,United States,San Francisco,17,0,0,0,03-10-2020
+7,United States,San Francisco,17,0,0,0,03-11-2020
+8,United States,San Francisco,21,0,0,0,03-12-2020
+9,United States,San Francisco,26,0,0,0,03-13-2020
+10,United States,San Francisco,31,0,0,0,03-14-2020
+11,United States,San Francisco,40,0,0,0,03-15-2020
+12,United States,San Francisco,43,0,0,0,03-16-2020
+13,United States,San Francisco,43,0,0,0,03-17-2020
+14,United States,San Francisco,51,0,0,0,03-18-2020
+15,United States,San Francisco,70,0,0,0,03-19-2020
+16,United States,San Francisco,76,0,0,0,03-20-2020
+17,United States,San Francisco,84,0,0,0,03-21-2020
+18,United States,San Francisco,108,0,0,0,03-22-2020
+19,United States,San Francisco,131,0,0,0,03-23-2020
+1,United States,San Mateo,1,0,0,0,03-03-2020
+2,United States,San Mateo,1,0,0,0,03-04-2020
+3,United States,San Mateo,1,0,0,0,03-05-2020
+4,United States,San Mateo,1,0,0,0,03-06-2020
+5,United States,San Mateo,1,0,0,0,03-07-2020
+6,United States,San Mateo,1,0,0,0,03-08-2020
+7,United States,San Mateo,8,0,0,0,03-09-2020
+8,United States,San Mateo,8,0,0,0,03-10-2020
+9,United States,San Mateo,14,0,0,0,03-11-2020
+10,United States,San Mateo,20,0,0,0,03-12-2020
+11,United States,San Mateo,20,0,0,0,03-13-2020
+12,United States,San Mateo,32,0,0,0,03-14-2020
+13,United States,San Mateo,32,0,0,0,03-15-2020
+14,United States,San Mateo,41,0,0,0,03-16-2020
+15,United States,San Mateo,64,0,0,0,03-17-2020
+16,United States,San Mateo,80,0,0,0,03-18-2020
+17,United States,San Mateo,89,0,0,0,03-19-2020
+18,United States,San Mateo,100,0,0,0,03-20-2020
+19,United States,San Mateo,110,0,0,0,03-21-2020
+20,United States,San Mateo,117,0,0,0,03-22-2020
+21,United States,San Mateo,142,0,0,0,03-23-2020
+1,United States,Santa Clara,1,0,0,0,01-31-2020
+2,United States,Santa Clara,1,0,0,0,02-01-2020
+3,United States,Santa Clara,2,0,0,0,02-02-2020
+4,United States,Santa Clara,2,0,0,0,02-03-2020
+5,United States,Santa Clara,2,0,0,0,02-04-2020
+6,United States,Santa Clara,2,0,0,0,02-05-2020
+7,United States,Santa Clara,2,0,0,0,02-06-2020
+8,United States,Santa Clara,2,0,0,0,02-07-2020
+9,United States,Santa Clara,2,0,0,0,02-08-2020
+10,United States,Santa Clara,2,0,0,0,02-09-2020
+11,United States,Santa Clara,2,0,0,0,02-10-2020
+12,United States,Santa Clara,2,0,0,0,02-11-2020
+13,United States,Santa Clara,2,0,0,0,02-12-2020
+14,United States,Santa Clara,2,0,0,0,02-13-2020
+15,United States,Santa Clara,2,0,0,0,02-14-2020
+16,United States,Santa Clara,2,0,0,0,02-15-2020
+17,United States,Santa Clara,2,0,0,0,02-16-2020
+18,United States,Santa Clara,2,0,0,0,02-17-2020
+19,United States,Santa Clara,2,0,0,0,02-18-2020
+20,United States,Santa Clara,2,0,0,0,02-19-2020
+21,United States,Santa Clara,2,0,0,0,02-20-2020
+22,United States,Santa Clara,2,0,0,0,02-21-2020
+23,United States,Santa Clara,2,0,0,0,02-22-2020
+24,United States,Santa Clara,2,0,0,0,02-23-2020
+25,United States,Santa Clara,2,0,0,0,02-24-2020
+26,United States,Santa Clara,2,0,0,0,02-25-2020
+27,United States,Santa Clara,2,0,0,0,02-26-2020
+28,United States,Santa Clara,2,0,0,0,02-27-2020
+29,United States,Santa Clara,3,0,0,0,02-28-2020
+30,United States,Santa Clara,4,0,0,0,02-29-2020
+31,United States,Santa Clara,7,0,0,0,03-01-2020
+32,United States,Santa Clara,9,0,0,0,03-02-2020
+33,United States,Santa Clara,11,0,0,0,03-03-2020
+34,United States,Santa Clara,14,0,0,0,03-04-2020
+35,United States,Santa Clara,20,0,0,0,03-05-2020
+36,United States,Santa Clara,24,0,0,0,03-06-2020
+37,United States,Santa Clara,32,0,0,0,03-07-2020
+38,United States,Santa Clara,37,0,0,0,03-08-2020
+39,United States,Santa Clara,43,0,0,0,03-09-2020
+40,United States,Santa Clara,45,0,0,0,03-10-2020
+41,United States,Santa Clara,48,0,0,0,03-11-2020
+42,United States,Santa Clara,66,0,0,0,03-12-2020
+43,United States,Santa Clara,79,0,0,0,03-13-2020
+44,United States,Santa Clara,91,0,0,0,03-14-2020
+45,United States,Santa Clara,114,0,0,0,03-15-2020
+46,United States,Santa Clara,138,0,0,0,03-16-2020
+47,United States,Santa Clara,155,0,0,0,03-17-2020
+48,United States,Santa Clara,175,0,0,0,03-18-2020
+49,United States,Santa Clara,189,0,0,0,03-19-2020
+50,United States,Santa Clara,196,0,0,0,03-20-2020
+51,United States,Santa Clara,263,0,0,0,03-21-2020
+52,United States,Santa Clara,302,0,0,0,03-22-2020
+53,United States,Santa Clara,321,0,0,0,03-23-2020
+1,United States,Solano,1,0,0,0,01-31-2020
+2,United States,Solano,1,0,0,0,02-01-2020
+3,United States,Solano,1,0,0,0,02-02-2020
+4,United States,Solano,1,0,0,0,02-03-2020
+5,United States,Solano,1,0,0,0,02-04-2020
+6,United States,Solano,1,0,0,0,02-05-2020
+7,United States,Solano,1,0,0,0,02-06-2020
+8,United States,Solano,1,0,0,0,02-07-2020
+9,United States,Solano,1,0,0,0,02-08-2020
+10,United States,Solano,1,0,0,0,02-09-2020
+11,United States,Solano,1,0,0,0,02-10-2020
+12,United States,Solano,1,0,0,0,02-11-2020
+13,United States,Solano,1,0,0,0,02-12-2020
+14,United States,Solano,1,0,0,0,02-13-2020
+15,United States,Solano,1,0,0,0,02-14-2020
+16,United States,Solano,1,0,0,0,02-15-2020
+17,United States,Solano,1,0,0,0,02-16-2020
+18,United States,Solano,1,0,0,0,02-17-2020
+19,United States,Solano,1,0,0,0,02-18-2020
+20,United States,Solano,1,0,0,0,02-19-2020
+21,United States,Solano,1,0,0,0,02-20-2020
+22,United States,Solano,1,0,0,0,02-21-2020
+23,United States,Solano,1,0,0,0,02-22-2020
+24,United States,Solano,1,0,0,0,02-23-2020
+25,United States,Solano,1,0,0,0,02-24-2020
+26,United States,Solano,1,0,0,0,02-25-2020
+27,United States,Solano,1,0,0,0,02-26-2020
+28,United States,Solano,1,0,0,0,02-27-2020
+29,United States,Solano,2,0,0,0,02-28-2020
+30,United States,Solano,2,0,0,0,02-29-2020
+31,United States,Solano,2,0,0,0,03-01-2020
+32,United States,Solano,2,0,0,0,03-02-2020
+33,United States,Solano,2,0,0,0,03-03-2020
+34,United States,Solano,2,0,0,0,03-04-2020
+35,United States,Solano,2,0,0,0,03-05-2020
+36,United States,Solano,2,0,0,0,03-06-2020
+37,United States,Solano,2,0,0,0,03-07-2020
+38,United States,Solano,3,0,0,0,03-08-2020
+39,United States,Solano,3,0,0,0,03-09-2020
+40,United States,Solano,3,0,0,0,03-10-2020
+41,United States,Solano,6,0,0,0,03-11-2020
+42,United States,Solano,6,0,0,0,03-12-2020
+43,United States,Solano,6,0,0,0,03-13-2020
+44,United States,Solano,6,0,0,0,03-14-2020
+45,United States,Solano,7,0,0,0,03-15-2020
+46,United States,Solano,8,0,0,0,03-16-2020
+47,United States,Solano,8,0,0,0,03-17-2020
+48,United States,Solano,8,0,0,0,03-18-2020
+49,United States,Solano,10,0,0,0,03-19-2020
+50,United States,Solano,13,0,0,0,03-20-2020
+51,United States,Solano,14,0,0,0,03-21-2020
+52,United States,Solano,14,0,0,0,03-22-2020
+53,United States,Solano,21,0,0,0,03-23-2020
+1,United States,Sonoma,1,0,0,0,01-31-2020
+2,United States,Sonoma,1,0,0,0,02-01-2020
+3,United States,Sonoma,1,0,0,0,02-02-2020
+4,United States,Sonoma,1,0,0,0,02-03-2020
+5,United States,Sonoma,1,0,0,0,02-04-2020
+6,United States,Sonoma,1,0,0,0,02-05-2020
+7,United States,Sonoma,1,0,0,0,02-06-2020
+8,United States,Sonoma,1,0,0,0,02-07-2020
+9,United States,Sonoma,1,0,0,0,02-08-2020
+10,United States,Sonoma,1,0,0,0,02-09-2020
+11,United States,Sonoma,1,0,0,0,02-10-2020
+12,United States,Sonoma,1,0,0,0,02-11-2020
+13,United States,Sonoma,1,0,0,0,02-12-2020
+14,United States,Sonoma,1,0,0,0,02-13-2020
+15,United States,Sonoma,1,0,0,0,02-14-2020
+16,United States,Sonoma,1,0,0,0,02-15-2020
+17,United States,Sonoma,1,0,0,0,02-16-2020
+18,United States,Sonoma,1,0,0,0,02-17-2020
+19,United States,Sonoma,1,0,0,0,02-18-2020
+20,United States,Sonoma,1,0,0,0,02-19-2020
+21,United States,Sonoma,1,0,0,0,02-20-2020
+22,United States,Sonoma,1,0,0,0,02-21-2020
+23,United States,Sonoma,1,0,0,0,02-22-2020
+24,United States,Sonoma,1,0,0,0,02-23-2020
+25,United States,Sonoma,1,0,0,0,02-24-2020
+26,United States,Sonoma,1,0,0,0,02-25-2020
+27,United States,Sonoma,1,0,0,0,02-26-2020
+28,United States,Sonoma,1,0,0,0,02-27-2020
+29,United States,Sonoma,1,0,0,0,02-28-2020
+30,United States,Sonoma,1,0,0,0,02-29-2020
+31,United States,Sonoma,1,0,0,0,03-01-2020
+32,United States,Sonoma,1,0,0,0,03-02-2020
+33,United States,Sonoma,1,0,0,0,03-03-2020
+34,United States,Sonoma,2,0,0,0,03-04-2020
+35,United States,Sonoma,2,0,0,0,03-05-2020
+36,United States,Sonoma,2,0,0,0,03-06-2020
+37,United States,Sonoma,2,0,0,0,03-07-2020
+38,United States,Sonoma,2,0,0,0,03-08-2020
+39,United States,Sonoma,2,0,0,0,03-09-2020
+40,United States,Sonoma,2,0,0,0,03-10-2020
+41,United States,Sonoma,2,0,0,0,03-11-2020
+42,United States,Sonoma,2,0,0,0,03-12-2020
+43,United States,Sonoma,3,0,0,0,03-13-2020
+44,United States,Sonoma,4,0,0,0,03-14-2020
+45,United States,Sonoma,4,0,0,0,03-15-2020
+46,United States,Sonoma,7,0,0,0,03-16-2020
+47,United States,Sonoma,9,0,0,0,03-17-2020
+48,United States,Sonoma,9,0,0,0,03-18-2020
+49,United States,Sonoma,11,0,0,0,03-19-2020
+50,United States,Sonoma,22,0,0,0,03-20-2020
+51,United States,Sonoma,24,0,0,0,03-21-2020
+52,United States,Sonoma,24,0,0,0,03-22-2020
+53,United States,Sonoma,29,0,0,0,03-23-2020

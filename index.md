@@ -2,15 +2,19 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 
 [![Tweet](tweetit.png)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwefightcovid19.org&text=Together%2C%20%40WeFightCovid%20!%20Here%20is%20how%20you%20can%20help%20in%20SF%20Bay%20Area%3A%20)
 
-## Community Efforts
-| [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
+## Resources
+| [Case Statistics](#Case) | [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
 
-### <a name="PPE"></a> PPE donation map (last updated 03/22/2020)
+### <a name="Case"></a> Case Statistics in San Francisco Bay Area
+(last updated 03/22/2020)
+{% include chart.html %}
+
+### <a name="PPE"></a> PPE donation map 
+(last updated 03/22/2020)
 
 **want to list your organization?** contact [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) with your work email (Org name, needs, address, contact)
 
 **have something to donate but need pickup?** submit info [here](https://docs.google.com/forms/d/e/1FAIpQLSeuvr5kbLRhG3c3Ht9fY-3ZrvMCJjyqqBeWUuulOGv6bu4lRw/viewform) 
-
 {% include map.html %}
 
 ### <a name="Volunteer"></a> Volunteer
