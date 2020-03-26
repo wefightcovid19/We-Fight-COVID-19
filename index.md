@@ -8,6 +8,7 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 ### <a name="Case"></a> Case Statistics in San Francisco Bay Area
 (last updated 03/25/2020)
 {% include chart.html %}
+Visit [91-vidoc.com](http://91-divoc.com/) for country and state-level data.  
 
 ### <a name="PPE"></a> PPE donation map 
 (last updated 03/22/2020)
