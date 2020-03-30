@@ -13,7 +13,7 @@ Visit [https://wefightcovid19.org/](https://wefightcovid19.org/#Case) for up-to-
 Visit [91-vidoc.com](http://91-divoc.com/) for country and state-level data.  
 
 ### <a name="PPE"></a> PPE donation map 
-(last updated 03/22/2020)
+(last updated 03/26/2020)
 
 **want to list your organization?** contact [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) with your work email (Org name, needs, address, contact)
 
@@ -42,6 +42,9 @@ Visit [91-vidoc.com](http://91-divoc.com/) for country and state-level data.
 
 - [Food Runners](http://www.foodrunners.org/)
     - Volunteers for the program pick up perishable and prepared food from businesses and deliver it in vehicles directly to neighborhood food programs.
+
+- [East Bay Feed ER](https://www.eastbayfeeder.org/)
+    - Every day, we purchase meals (at full price plus tip!) from local, independently-owned restaurants, all of which are struggling because of the coronavirus social distancing rules. We deliver those meals to five East Bay hospitals. 
 
 #### Help feed hungry students
 
