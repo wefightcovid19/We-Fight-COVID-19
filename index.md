@@ -6,7 +6,7 @@ Contribute to this page? Contact us at [wefightcovid19@gmail.com](mailto:wefight
 | [Case Statistics](#Case) | [PPE](#PPE) | [Volunteer](#Volunteer) | [Fund](#Fund) | [Unemployment](#Unemployment) | [Small Business](#Small) |
 
 ### <a name="Case"></a> Case Statistics in San Francisco Bay Area
-(last updated 03/28/2020)
+(last updated 03/29/2020)
 {% include chart.html %}
 Visit [https://wefightcovid19.org/](https://wefightcovid19.org/#Case) for up-to-date Bay Area case statistics. 
 

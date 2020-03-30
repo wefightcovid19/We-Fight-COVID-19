@@ -27,6 +27,7 @@
 26,United States,Alameda,178,0,0,0,03-26-2020
 27,United States,Alameda,220,0,0,0,03-27-2020
 28,United States,Alameda,256,0,0,0,03-28-2020
+29,United States,Alameda,270,0,0,0,03-29-2020
 1,United States,Contra Costa,1,0,0,0,03-03-2020
 2,United States,Contra Costa,1,0,0,0,03-04-2020
 3,United States,Contra Costa,1,0,0,0,03-05-2020
@@ -53,6 +54,7 @@
 24,United States,Contra Costa,131,0,0,0,03-26-2020
 25,United States,Contra Costa,151,0,0,0,03-27-2020
 26,United States,Contra Costa,168,0,0,0,03-28-2020
+27,United States,Contra Costa,175,0,0,0,03-29-2020
 1,United States,Marin,1,0,0,0,03-09-2020
 2,United States,Marin,1,0,0,0,03-10-2020
 3,United States,Marin,3,0,0,0,03-11-2020
@@ -73,6 +75,7 @@
 18,United States,Marin,65,0,0,0,03-26-2020
 19,United States,Marin,69,0,0,0,03-27-2020
 20,United States,Marin,74,0,0,0,03-28-2020
+21,United States,Marin,74,0,0,0,03-29-2020
 1,United States,Napa,2,0,0,0,03-22-2020
 2,United States,Napa,2,0,0,0,03-23-2020
 3,United States,Napa,3,0,0,0,03-24-2020
@@ -80,6 +83,7 @@
 5,United States,Napa,6,0,0,0,03-26-2020
 6,United States,Napa,8,0,0,0,03-27-2020
 7,United States,Napa,10,0,0,0,03-28-2020
+8,United States,Napa,10,0,0,0,03-29-2020
 1,United States,San Francisco,2,0,0,0,03-05-2020
 2,United States,San Francisco,2,0,0,0,03-06-2020
 3,United States,San Francisco,8,0,0,0,03-07-2020
@@ -104,6 +108,7 @@
 22,United States,San Francisco,223,0,0,0,03-26-2020
 23,United States,San Francisco,279,0,0,0,03-27-2020
 24,United States,San Francisco,308,0,0,0,03-28-2020
+25,United States,San Francisco,340,0,0,0,03-29-2020
 1,United States,San Mateo,1,0,0,0,03-03-2020
 2,United States,San Mateo,1,0,0,0,03-04-2020
 3,United States,San Mateo,1,0,0,0,03-05-2020
@@ -130,6 +135,7 @@
 24,United States,San Mateo,195,0,0,0,03-26-2020
 25,United States,San Mateo,239,0,0,0,03-27-2020
 26,United States,San Mateo,274,0,0,0,03-28-2020
+27,United States,San Mateo,277,0,0,0,03-29-2020
 1,United States,Santa Clara,1,0,0,0,01-31-2020
 2,United States,Santa Clara,1,0,0,0,02-01-2020
 3,United States,Santa Clara,2,0,0,0,02-02-2020
@@ -188,6 +194,7 @@
 56,United States,Santa Clara,542,0,0,0,03-26-2020
 57,United States,Santa Clara,574,0,0,0,03-27-2020
 58,United States,Santa Clara,591,0,0,0,03-28-2020
+59,United States,Santa Clara,646,0,0,0,03-29-2020
 1,United States,Solano,1,0,0,0,01-31-2020
 2,United States,Solano,1,0,0,0,02-01-2020
 3,United States,Solano,1,0,0,0,02-02-2020
@@ -246,6 +253,7 @@
 56,United States,Solano,31,0,0,0,03-26-2020
 57,United States,Solano,34,0,0,0,03-27-2020
 58,United States,Solano,34,0,0,0,03-28-2020
+59,United States,Solano,34,0,0,0,03-29-2020
 1,United States,Sonoma,1,0,0,0,01-31-2020
 2,United States,Sonoma,1,0,0,0,02-01-2020
 3,United States,Sonoma,1,0,0,0,02-02-2020
@@ -304,3 +312,4 @@
 56,United States,Sonoma,44,0,0,0,03-26-2020
 57,United States,Sonoma,50,0,0,0,03-27-2020
 58,United States,Sonoma,50,0,0,0,03-28-2020
+59,United States,Sonoma,58,0,0,0,03-29-2020
