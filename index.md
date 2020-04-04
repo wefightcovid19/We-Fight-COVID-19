@@ -13,7 +13,7 @@ Visit [https://wefightcovid19.org/](https://wefightcovid19.org/#Case) for up-to-
 Visit [91-vidoc.com](http://91-divoc.com/) for country and state-level data.  
 
 ### <a name="PPE"></a> PPE donation map 
-(last updated 04/01/2020)
+(last updated 04/03/2020)
 
 **want to list your organization?** contact [wefightcovid19@gmail.com](mailto:wefightcovid19@gmail.com) with your work email (Org name, needs, address, contact)
 
